@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Techystar-raect1/static/css/main.8ef99625.css",
+    "main.js": "/Techystar-raect1/static/js/main.bcf0351d.js",
+    "static/media/1.png": "/Techystar-raect1/static/media/1.9741230b4b4fe8213efa.png",
+    "static/media/laptop.jpg": "/Techystar-raect1/static/media/laptop.9bae92981bff135650c7.jpg",
+    "static/media/development.jpg": "/Techystar-raect1/static/media/development.f2d5b741b06a522a8eb7.jpg",
+    "static/media/webp.webp": "/Techystar-raect1/static/media/webp.f9561efff3bd3330d3b9.webp",
+    "index.html": "/Techystar-raect1/index.html",
+    "main.8ef99625.css.map": "/Techystar-raect1/static/css/main.8ef99625.css.map",
+    "main.bcf0351d.js.map": "/Techystar-raect1/static/js/main.bcf0351d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ef99625.css",
+    "static/js/main.bcf0351d.js"
+  ]
+}
